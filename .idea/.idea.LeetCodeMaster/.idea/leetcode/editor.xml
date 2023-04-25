@@ -3,6 +3,17 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[121]Best Time to Buy and Sell Stock.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[121]Best Time to Buy and Sell Stock.md" />
+              <option name="frontendQuestionId" value="leetcode.com121" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[121]Best Time to Buy and Sell Stock.cs" />
+              <option name="titleSlug" value="best-time-to-buy-and-sell-stock" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1342]Number of Steps to Reduce a Number to Zero.cs">
           <value>
             <LeetcodeEditor>
@@ -69,6 +80,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[344]Reverse String.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[344]Reverse String.md" />
+              <option name="frontendQuestionId" value="leetcode.com344" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[344]Reverse String.cs" />
+              <option name="titleSlug" value="reverse-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[383]Ransom Note.cs">
           <value>
             <LeetcodeEditor>
@@ -99,6 +121,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[876]Middle of the Linked List.cs" />
               <option name="titleSlug" value="middle-of-the-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[977]Squares of a Sorted Array.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[977]Squares of a Sorted Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com977" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[977]Squares of a Sorted Array.cs" />
+              <option name="titleSlug" value="squares-of-a-sorted-array" />
             </LeetcodeEditor>
           </value>
         </entry>
