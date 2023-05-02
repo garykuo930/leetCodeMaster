@@ -36,6 +36,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1822]Sign of the Product of an Array.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[1822]Sign of the Product of an Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com1822" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1822]Sign of the Product of an Array.cs" />
+              <option name="titleSlug" value="sign-of-the-product-of-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1832]Check if the Sentence Is Pangram.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[1832]Check if the Sentence Is Pangram.md" />
+              <option name="frontendQuestionId" value="leetcode.com1832" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1832]Check if the Sentence Is Pangram.cs" />
+              <option name="titleSlug" value="check-if-the-sentence-is-pangram" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1]Two Sum.cs">
           <value>
             <LeetcodeEditor>
@@ -66,6 +88,28 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[226]Invert Binary Tree.cs" />
               <option name="titleSlug" value="invert-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[2351]First Letter to Appear Twice.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[2351]First Letter to Appear Twice.md" />
+              <option name="frontendQuestionId" value="leetcode.com2351" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[2351]First Letter to Appear Twice.cs" />
+              <option name="titleSlug" value="first-letter-to-appear-twice" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[303]Range Sum Query - Immutable.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[303]Range Sum Query - Immutable.md" />
+              <option name="frontendQuestionId" value="leetcode.com303" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[303]Range Sum Query - Immutable.cs" />
+              <option name="titleSlug" value="range-sum-query-immutable" />
             </LeetcodeEditor>
           </value>
         </entry>
