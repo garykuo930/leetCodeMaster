@@ -36,6 +36,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1822]Sign of the Product of an Array.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[1822]Sign of the Product of an Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com1822" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1822]Sign of the Product of an Array.cs" />
+              <option name="titleSlug" value="sign-of-the-product-of-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1]Two Sum.cs">
           <value>
             <LeetcodeEditor>
@@ -55,6 +66,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[2236]Root Equals Sum of Children.cs" />
               <option name="titleSlug" value="root-equals-sum-of-children" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[2248]Intersection of Multiple Arrays.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[2248]Intersection of Multiple Arrays.md" />
+              <option name="frontendQuestionId" value="leetcode.com2248" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[2248]Intersection of Multiple Arrays.cs" />
+              <option name="titleSlug" value="intersection-of-multiple-arrays" />
             </LeetcodeEditor>
           </value>
         </entry>
