@@ -36,6 +36,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1941]Check if All Characters Have Equal Number of Occurrences.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[1941]Check if All Characters Have Equal Number of Occurrences.md" />
+              <option name="frontendQuestionId" value="leetcode.com1941" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1941]Check if All Characters Have Equal Number of Occurrences.cs" />
+              <option name="titleSlug" value="check-if-all-characters-have-equal-number-of-occurrences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1]Two Sum.cs">
           <value>
             <LeetcodeEditor>
@@ -88,6 +99,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[412]Fizz Buzz.cs" />
               <option name="titleSlug" value="fizz-buzz" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[560]Subarray Sum Equals K.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[560]Subarray Sum Equals K.md" />
+              <option name="frontendQuestionId" value="leetcode.com560" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[560]Subarray Sum Equals K.cs" />
+              <option name="titleSlug" value="subarray-sum-equals-k" />
             </LeetcodeEditor>
           </value>
         </entry>
